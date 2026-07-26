@@ -1,6 +1,5 @@
 <div align="center">
 
-# 🌸 PetalOS
 
 <img src="petal-os.png" alt="PetalOS Logo" width="180">
 
