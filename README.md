@@ -16,7 +16,7 @@ PetalOS is an Arch-based Linux distribution designed to provide a clean, modern,
 
 Rather than changing what makes Arch great, PetalOS builds upon it by offering sensible defaults, a refined visual style, and a foundation that's easy to personalize. Whether you're using your computer for development, gaming, content creation, or everyday tasks, PetalOS aims to stay fast, reliable, and out of your way.
 
-PetalOS is built around the idea that your operating system should adapt to you—not the other way around.
+PetalOS is built around the idea that your operating system should adapt to you, not the other way around.
 
 ---
 
