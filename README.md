@@ -4,6 +4,7 @@
 <img src="resources/mellow-linux.png" alt="Mellow Linux Logo" width="180">
 
 **A modern, Arch-based Linux distribution focused on simplicity, elegance, and customizability**
+
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)
 ![Base](https://img.shields.io/badge/Base-Arch_Linux-1793D1)
 ![Desktop](https://img.shields.io/badge/Desktop-GNOME-4A86CF)
