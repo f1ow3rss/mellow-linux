@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.tweaks.desktop" score="99" last-seen="1785508798"/>
+    <application id="org.gnome.Builder.desktop" score="21" last-seen="1785351670"/>
+    <application id="org.gnome.Software.desktop" score="27" last-seen="1785339252"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="179" last-seen="1785502354"/>
+    <application id="org.gnome.Epiphany.desktop" score="144" last-seen="1785502594"/>
+    <application id="org.gnome.Characters.desktop" score="0" last-seen="1785337228"/>
+    <application id="calamares.desktop" score="11" last-seen="1785362109"/>
+    <application id="org.gnome.TextEditor.desktop" score="91" last-seen="1785519239"/>
+    <application id="org.gnome.Console.desktop" score="2152" last-seen="1785515597"/>
+    <application id="org.gnome.Nautilus.desktop" score="518" last-seen="1785519228"/>
+    <application id="com.mattjakeman.ExtensionManager.desktop" score="101" last-seen="1785350478"/>
+    <application id="org.gnome.font-viewer.desktop" score="1" last-seen="1785502148"/>
+    <application id="org.gnome.Calculator.desktop" score="0" last-seen="1785330327"/>
+    <application id="firefox.desktop" score="97" last-seen="1785362089"/>
+    <application id="org.gnome.Extensions.desktop" score="2" last-seen="1785344142"/>
+    <application id="org.gnome.Settings.desktop" score="60" last-seen="1785502270"/>
+  </context>
+</application-state>

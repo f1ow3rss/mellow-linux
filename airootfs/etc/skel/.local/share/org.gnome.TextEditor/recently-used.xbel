@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///etc/arch-release" added="2026-07-29T14:44:02.728882Z" modified="2026-07-29T14:45:32.273130Z" visited="2026-07-29T16:45:14.398037+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T14:45:32.273130Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/os-release" added="2026-07-29T14:44:43.730415Z" modified="2026-07-31T12:45:26.372126Z" visited="2026-07-31T14:14:52.461234+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-31T12:45:26.372126Z" count="96"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/.config/fastfetch/config.jsonc" added="2026-07-29T15:39:16.483166Z" modified="2026-07-29T15:52:58.233029Z" visited="2026-07-29T17:39:13.662267+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T15:52:58.233028Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/fastfetch/fastfetch/src/logo/ascii/a/arco.txt" added="2026-07-29T15:52:58.233031Z" modified="2026-07-29T15:52:58.233032Z" visited="2026-07-29T17:52:55.436097+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T15:52:58.233031Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/fastfetch/fastfetch/src/logo/ascii/a/arch.txt" added="2026-07-29T15:53:12.485580Z" modified="2026-07-29T15:53:13.178868Z" visited="2026-07-29T17:53:09.619449+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T15:53:13.178867Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/fastfetch/fastfetch/src/logo/ascii/a/alpine.txt" added="2026-07-29T15:53:19.485170Z" modified="2026-07-29T15:53:32.588344Z" visited="2026-07-29T17:53:17.511557+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T15:53:32.588344Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/fastfetch/fastfetch/src/logo/ascii/m/mellow.txt.save" added="2026-07-29T15:56:37.489365Z" modified="2026-07-29T15:57:40.995515Z" visited="2026-07-29T17:56:35.011809+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T15:57:40.995514Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///etc/fastfetch/fastfetch/src/logo/ascii/m/mellow.txt.save" added="2026-07-29T15:56:43.484100Z" modified="2026-07-31T12:45:26.372122Z" visited="2026-07-31T14:14:54.906318+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-31T12:45:26.372121Z" count="61"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/default/grub" added="2026-07-29T16:16:47.486545Z" modified="2026-07-29T16:17:38.483321Z" visited="2026-07-29T18:16:45.524903+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T16:17:38.483320Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///etc/default/grub" added="2026-07-29T16:17:33.485470Z" modified="2026-07-29T16:17:38.483322Z" visited="2026-07-29T18:17:30.236560+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T16:17:38.483322Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/plymouth/themes/spinner/spinner.plymouth" added="2026-07-29T16:24:29.112851Z" modified="2026-07-29T16:29:09.127765Z" visited="2026-07-29T18:29:00.732764+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T16:29:09.127764Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/plymouth/plymouthd.defaults" added="2026-07-29T16:27:38.110388Z" modified="2026-07-29T16:27:47.647804Z" visited="2026-07-29T18:27:35.381691+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T16:27:47.647803Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/mellow/resources/ascii/mellow.txt" added="2026-07-29T19:01:14.491877Z" modified="2026-07-31T12:45:26.372125Z" visited="2026-07-31T14:14:52.477635+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-31T12:45:26.372125Z" count="48"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/calamares/branding/default/branding.desc" added="2026-07-29T21:55:19.079245Z" modified="2026-07-29T21:55:42.410989Z" visited="2026-07-29T23:55:16.500484+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T21:55:42.410988Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/calamares/branding/default/stylesheet.qss" added="2026-07-29T21:58:41.078713Z" modified="2026-07-29T21:59:00.670515Z" visited="2026-07-29T23:58:39.164562+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T21:59:00.670515Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/calamares/branding/default/show.qml" added="2026-07-29T21:59:07.078404Z" modified="2026-07-29T21:59:15.477221Z" visited="2026-07-29T23:59:05.235279+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-07-29T21:59:15.477220Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

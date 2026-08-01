@@ -1,0 +1,11 @@
+NAME="Mellow Linux"
+PRETTY_NAME="Mellow Linux"
+ID=mellow
+BUILD_ID=rolling
+ANSI_COLOR="35"
+HOME_URL=""
+DOCUMENTATION_URL=""
+SUPPORT_URL=""
+BUG_REPORT_URL=""
+PRIVACY_POLICY_URL=""
+LOGO=mellow-linux
