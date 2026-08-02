@@ -47,18 +47,20 @@ declare -A pseudofs_types=([anon_inodefs]=1
                            [tmpfs]=1)
 
 # generated from: pkgfile -vbr '/fsck\..+' | awk -F. '{ print $NF }' | sort
-declare -A fsck_types=([cramfs]=1
+declare -A fsck_types=([btrfs]=1
+                       [cramfs]=1
                        [exfat]=1
                        [ext2]=1
                        [ext3]=1
                        [ext4]=1
                        [ext4dev]=1
+                       [f2fs]=1
                        [jfs]=1
                        [minix]=1
                        [msdos]=1
-                       [reiserfs]=1
                        [vfat]=1
-                       [xfs]=1)
+                       [xfs]=1
+                       [zfs]=1)
 
 out() { printf "$1 $2\n" "${@:3}"; }
 error() { out "==> ERROR:" "$@"; } >&2
@@ -334,6 +336,8 @@ if (( ! interactive )); then
   pacman_args+=(--noconfirm)
 fi
 
+pacman_args+=(--needed)
+
 if [[ $pacman_config ]]; then
   pacman_args+=(--config="$pacman_config")
 fi
@@ -351,7 +355,7 @@ chroot_setup "$newroot" || die "failed to setup chroot %s" "$newroot"
 
 
 msg 'Installing packages to %s' "$newroot"
-if ! pacman -r "$newroot" -Sy "${pacman_args[@]}"; then
+if ! pacman --sysroot "$newroot" -Sy "${pacman_args[@]}"; then
   die 'Failed to install packages to new root'
 fi
 
