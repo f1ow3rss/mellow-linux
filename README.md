@@ -33,6 +33,9 @@ Rather than changing what makes Arch great, Mellow builds upon it by offering se
 
 <img src="resources/readme2.png" alt="Fastfetch" width="100%">
 
+
+---
+
 ## How to Build
 
 Mellow Linux uses `mkarchiso` to build the installation image.
@@ -60,18 +63,21 @@ sudo mkarchiso -v -w work -o out .
 Depending on your hardware, the build process may take several minutes.
 The finished ISO will be located in the `out/` directory.
 
-### Test the ISO (recommended)
+### Test the ISO first
 
 Before installing Mellow Linux on physical hardware, it is recommended to test the generated ISO in a virtual machine.
 
 Testing the image first allows you to verify that customizations, installers, themes, and desktop configuration behave as expected before deployment.
 
+---
 
 ### Contributing
 
 Contributions of all sizes are welcome.
 Whether you are fixing bugs, improving documentation, refining the desktop experience, or suggesting new ideas, your contributions help make Mellow Linux better for everyone.
 If you discover a bug or have a feature request, please open an issue describing the problem or suggestion in as much detail as possible.
+
+---
 
 ### License
 This project is distributed under the MIT License.
