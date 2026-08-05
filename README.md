@@ -7,7 +7,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT--3.0-blue.svg)
 ![Base](https://img.shields.io/badge/Base-Arch_Linux-1793D1)
-![Desktop](https://img.shields.io/badge/Desktop-GNOME-4A86CF)
+![Desktop](https://img.shields.io/badge/Desktop-KDE%20Plasma-blueviolet?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 </div>
