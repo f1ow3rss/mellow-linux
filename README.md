@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="resources/mellow-linux.png" alt="Mellow Linux Logo" width="180">
+<img src="assets/logos/mellow-linux.png" alt="Mellow Linux Logo" width="180">
 
 **A modern, Arch-based Linux distribution focused on simplicity, elegance, and customizability**
 
