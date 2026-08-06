@@ -1,2 +1,0 @@
-{"timestamp":8872580,"category":"browser.backup","name":"backup_detection_complete","extra":{"source":"onboarding","restore_id":"","location":"none","glean_timestamp":"1785361237716","backup_timestamp":"0","count":"0"}}
-{"timestamp":8872580,"category":"browser.backup","name":"backup_detection_complete","extra":{"backup_timestamp":"0","count":"0","source":"onboarding","glean_timestamp":"1785361237716","restore_id":"","location":"none"}}
