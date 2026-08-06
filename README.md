@@ -33,6 +33,7 @@ Rather than changing what makes Arch great, Mellow builds upon it by offering se
 
 <img src="resources/image2.png" alt="Fastfetch" width="100%">
 
+
 <img src="resources/image3.png" alt="Fastfetch" width="100%">
 
 
