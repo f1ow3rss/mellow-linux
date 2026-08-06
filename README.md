@@ -28,13 +28,13 @@ Rather than changing what makes Arch great, Mellow builds upon it by offering se
 > **Mellow Linux is currently in active development. Features, appearance, and documentation are subject to change as the project evolves.**
  
 
-<img src="resources/image1.png" alt="Desktop" width="100%">
+<img src="assets/images/image1.png" alt="Desktop" width="100%">
 
 
-<img src="resources/image2.png" alt="Fastfetch" width="100%">
+<img src="assets/images/image2.png" alt="Fastfetch" width="100%">
 
 
-<img src="resources/image3.png" alt="Fastfetch" width="100%">
+<img src="assets/images/image3.png" alt="Fastfetch" width="100%">
 
 
 ---
