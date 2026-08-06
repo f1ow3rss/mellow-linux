@@ -1,0 +1,13 @@
+[68f2f62c-e916-4139-9b1a-e7bb381e7d8b]
+Description=translucency
+opacityactive=31
+opacityactiverule=2
+opacityinactive=9
+opacityinactiverule=2
+types=4
+wmclass=plasmashell
+wmclassmatch=1
+
+[General]
+count=1
+rules=68f2f62c-e916-4139-9b1a-e7bb381e7d8b

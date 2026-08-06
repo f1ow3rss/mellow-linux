@@ -1,0 +1,12 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=/usr/share/mellow/mellow-linux.png
+Name1[$e]=mellow-linux.png
+
+[SideBar]
+InformationSplitterSizes=0,0
