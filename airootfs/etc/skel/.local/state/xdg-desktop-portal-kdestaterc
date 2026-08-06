@@ -1,0 +1,7 @@
+[FileDialogSize]
+1280x800 screen: Height=533
+1280x800 screen: Width=853
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///usr/share/mellow/mellow-linux.png
+Recent URLs[$e]=file:///usr/share/mellow/,file:///usr/share/mellow/,file:$HOME/Downloads/,file:$HOME/Documents/,file:$HOME/

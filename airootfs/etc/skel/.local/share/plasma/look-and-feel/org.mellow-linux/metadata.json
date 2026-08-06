@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mellow@mellow-linux.org",
+                "Name": "flowers"
+            }
+        ],
+        "Description": "The default theme for Mellow Linux.",
+        "Id": "org.mellow-linux",
+        "License": "LGPL 2.1+",
+        "Name": "Mellow Linux",
+        "Website": "mellow-linux.org"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "default"
+}

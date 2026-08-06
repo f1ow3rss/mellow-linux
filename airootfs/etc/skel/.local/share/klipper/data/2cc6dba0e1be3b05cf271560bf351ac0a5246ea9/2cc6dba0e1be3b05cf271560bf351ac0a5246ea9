@@ -1,0 +1,4 @@
+[mellow]
+SigLevel = Optional TrustAll
+#Server = https://f1ow3rss.github.io/mellow-repo
+Server = file:///home/mellow/mellow-repo

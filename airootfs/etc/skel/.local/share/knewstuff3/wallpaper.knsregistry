@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Utterly Nord</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1904144</homepage>
+  <licence></licence>
+  <version>1.2</version>
+  <rating>57</rating>
+  <downloads>70693</downloads>
+  <installedfile>/home/mellow/.local/share/wallpapers/Utterly-Nord/*</installedfile>
+  <id>1904144</id>
+  <releasedate>2025-05-01</releasedate>
+  <summary>&lt;p>A Nordic Wallpaper&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/1904144/nord-lake-720p.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/1904144/nord-lake-720p.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcwMzMwNjk2MCwidSI6bnVsbCwicyI6ImU5NzYwYTQ3YTc1NThjZjQ5YzMwMzlhYmNhNTk2NzcxM2U4ZWJmZDM2N2UxMDgzNDAxODAwNjVhYTNiMTRiYTFjMDJmNjk2NDU4M2Q2Mzc0YjA4NDdiMTdlZDFhOTUxNTRmNmYxMDk1ZTI1YTdiYjYxZWE0N2JiZDM4MzY2ODdkIiwidCI6MTc4NTc5MDE4OCwibyI6MSwibHQiOiJkb3dubG9hZCIsImp0aSI6Ijk3YjhmNWNmNmU2NjYwM2E0N2Q0MjY4YzRmMzg3NzllIiwiaWF0IjoxNzg1Nzg2NTg4LCJleHAiOjE3ODU5NTkzODgsInN0aXAiOiIxMC4xMzUuMjQ2LjE5In0.6QlQYFQaBeeHwM1HDQuTuUrt3UxXGnj_vbMjHGIAQmQ/Utterly-Nord-Wallpaper.tar.xz</payload>
+  <tags>efi,ultrahd,plasma,nord,nordic,wallpaper,kde,gplv2-later,artwork</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

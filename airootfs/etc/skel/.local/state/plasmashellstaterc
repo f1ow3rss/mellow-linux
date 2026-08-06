@@ -1,0 +1,9 @@
+[General]
+SystemInstallDate=2026-08-03
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///usr/share/mellow/assets/logos/mellow-linux.png,file:$HOME/Downloads/Pixel-Lab-Studio-1785784511772.png
+Recent URLs[$e]=file:///usr/share/mellow/,file:///usr/share/,file:///usr/share/mello/,file:///usr/share/mellow/resources/,file:///usr/share/mellow/assets/logos/,file:///usr/share/mellow/resources/64x64/,file:$HOME/,file:$HOME/Downloads/,file:$HOME/Documents/
+
+[KickerRunnerManager][History]
+dcccde66-a872-4772-8798-2caaa1b05645=cmd,fire,dolp,file,dol,dolphin,gpar,d,fil,kvan,files,firefox,kvantum,sett,fi,web,setting,ko

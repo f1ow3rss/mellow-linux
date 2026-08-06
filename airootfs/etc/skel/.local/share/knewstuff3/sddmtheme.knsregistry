@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="101">
+  <name>Utterly Nord Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/2340614</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>8108</downloads>
+  <installedfile>/tmp/Utterly-Nord-SDDM.tar.xz</installedfile>
+  <id>2340614</id>
+  <releasedate>2026-01-08</releasedate>
+  <summary>&lt;p>Utterly Nord SDDM them.&lt;br />&lt;br />To install this theme, open System Settings in Plasma and go to &amp;quot;Startup and Shutdown &amp;gt; Login Screen (SDDM)&amp;quot; and click the &amp;quot;Get New SDDM Themes...&amp;quot; button in the lower right corner. In the new window that appeared, search for &amp;quot;Utterly Nord Plasma 5&amp;quot; and install it.&lt;br />&lt;br />ATTENTION: This SDDM theme is designed to be used with &lt;a href="https://store.kde.org/p/1904859/">Utterly Nord&lt;/a> or &lt;a href="https://store.kde.org/p/1917104/">Utterly Nord Light&lt;/a> Global Themes and may not look like the above screenshots if the following steps are not completed.&lt;br />&lt;br />1. Install &lt;a href="https://store.kde.org/p/1904859/">Utterly Nord&lt;/a> or &lt;a href="https://store.kde.org/p/1917104/">Utterly Nord Light&lt;/a> Global Theme by following the instructions in their page.&lt;br />2.  Open &amp;quot;System Settings&amp;quot; and go to &amp;quot;Appearance &amp;gt; Global Theme&amp;quot;,  select &amp;quot;Utterly Nord&amp;quot; and click &amp;quot;Apply&amp;quot;.&lt;br />3. Open a terminal and execute the following commands:&lt;br />&lt;/p>&lt;pre>&lt;code>
+sudo cp -r ~/.local/share/plasma/desktoptheme/Utterly-Round /usr/share/plasma/desktoptheme
+sudo cp -r ~/.icons/Nordic-cursors /usr/share/icons/
+&lt;/code>&lt;/pre>&lt;br />4. Open &amp;quot;System Settings&amp;quot;, go to &amp;quot;Startup and Shutdown &amp;gt; Login Screen (SDDM)&amp;quot;, select &amp;quot;Utterly Nord&amp;quot; and click &amp;quot;Apply&amp;quot;.&lt;br />5. Click &amp;quot;Apply Plasma Settings...&amp;quot; and click &amp;quot;Apply&amp;quot;</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2340614/screenshot-181.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2340614/screenshot-181.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2Nzg4Mzg5OSwidSI6bnVsbCwicyI6ImIwNzNmYzllNTAxNDI0NzJkMDcyZDFhNjE3ZDcyYjQ3YzVkN2FhM2NhZTlmYzFkMmQ1MTJjODdjYzA0YjY0NmIwNDZlNjk2ZTY1Yjk4YjlmZjRkYWRjMmQzMjhhYWMzNzgwYTkwZjBkMzUzOWEzNGY4OTdiNDM2Y2E5NTZiOWQ5IiwidCI6MTc4NTc5MDE4MiwibyI6MSwibHQiOiJkb3dubG9hZCIsImp0aSI6ImM4YTYyNTBhZWU2MDE1YzBiNTMyYjcxZGRlYWE2OTVmIiwiaWF0IjoxNzg1Nzg2NTgyLCJleHAiOjE3ODU5NTkzODIsInN0aXAiOiIxMC4xMzUuMjQ2LjE5In0.ZF2R1IYdXpRzhWVgY_LagB04OHKiHBGkyAyx_HRCi0g/Utterly-Nord-SDDM.tar.xz</payload>
+  <tags>unix,gplv2-later,linux,efi</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Ant-Dracula sddm</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1374247</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>63</rating>
+  <downloads>156822</downloads>
+  <installedfile>/tmp/Dracula.tar.xz</installedfile>
+  <id>1374247</id>
+  <releasedate>2026-03-29</releasedate>
+  <summary>&lt;p>A dark theme created using the awesome &lt;a href="https://draculatheme.com/">Dracula&lt;/a> color palette.&lt;br />&lt;br />Suggested setings: &lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1370681/">Dracula Kvantum theme&lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1370687/">Dracula Plasma theme&lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1370682/">Draula Aurorae theme &lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1370679/">Dracula colorscheme&lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1374247/cbd69f94fe7b7f32414928539f82d8a8febc1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1374247/cbd69f94fe7b7f32414928539f82d8a8febc1.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc0MzU1MTIxOCwidSI6bnVsbCwicyI6ImU4MjAxM2U3MmNkMjdjOGJkYWUzMzMzOTM3OTlmNzRjNmZiNmRmY2EyOGZjMGFhODNmZmNmNWYyY2ZlNmIyN2RjMGZiODIzMGE4ZDNkYzYxODMwYjMzN2ZiYTMyNzAzZTY0N2VhMjI2MTAzZjEwM2YzNjcwNjY1MWQ0ZTM5MWVlIiwidCI6MTc4NTc4OTMzNiwibyI6MSwibHQiOiJkb3dubG9hZCIsImp0aSI6IjMxNjU3ZjllMmIzOTQ1NDFmNWNjNTExYjkxZDg4YjhiIiwiaWF0IjoxNzg1Nzg1NzM2LCJleHAiOjE3ODU5NTg1MzYsInN0aXAiOiIxMC4xMzUuMjQ2LjE5In0.AXHuOO-8akkNXp8pnYNJE4se-Hv0C32aKgLZbUfKyuA/Dracula.tar.xz</payload>
+  <tags>unix,gplv3,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

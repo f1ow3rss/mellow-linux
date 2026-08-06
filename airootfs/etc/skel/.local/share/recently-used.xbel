@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///etc/arch-release" added="2026-07-29T14:43:59.231766Z" modified="2026-07-29T14:44:04.823286Z" visited="2026-07-29T14:43:59.231768Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T14:44:04.823284Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/os-release" added="2026-07-29T14:44:39.868579Z" modified="2026-07-29T14:45:49.249569Z" visited="2026-07-29T14:44:39.868580Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T14:45:49.249566Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/mellow/resources/mellow.png" added="2026-07-29T15:27:45.143326Z" modified="2026-07-29T16:38:49.367222Z" visited="2026-07-29T15:27:45.143327Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2026-07-29T16:35:24.892137Z" count="4"/>
+          <bookmark:application name="org.gnome.Shell.Extensions" exec="'org.gnome.Shell.Extensions %u'" modified="2026-07-29T16:38:49.367219Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/mellow/resources/mellow-linux.png" added="2026-07-29T15:27:45.144983Z" modified="2026-08-03T19:13:29.597000Z" visited="2026-08-03T19:13:29.597000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2026-07-29T15:27:45.144985Z" count="1"/>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2026-08-03T19:13:29.597000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/fastfetch/presets/examples/7.jsonc" added="2026-07-29T15:36:43.141998Z" modified="2026-07-29T15:36:43.142002Z" visited="2026-07-29T15:36:43.141999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/schema+json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-builder %U'" modified="2026-07-29T15:36:43.142001Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/fastfetch/presets/all.jsonc" added="2026-07-29T15:42:00.583358Z" modified="2026-07-29T15:42:00.583362Z" visited="2026-07-29T15:42:00.583359Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/schema+json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-builder %U'" modified="2026-07-29T15:42:00.583360Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/fastfetch/fastfetch/src/logo/ascii/a/arco.txt" added="2026-07-29T15:52:55.379434Z" modified="2026-07-29T15:52:55.379438Z" visited="2026-07-29T15:52:55.379435Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T15:52:55.379436Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/fastfetch/fastfetch/src/logo/ascii/a/arch.txt" added="2026-07-29T15:53:08.397862Z" modified="2026-07-29T15:53:08.397867Z" visited="2026-07-29T15:53:08.397863Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T15:53:08.397864Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/fastfetch/fastfetch/src/logo/ascii/a/alpine.txt" added="2026-07-29T15:53:16.203110Z" modified="2026-07-29T15:53:16.203115Z" visited="2026-07-29T15:53:16.203111Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T15:53:16.203112Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/fastfetch/fastfetch/src/logo/ascii/m/mellow.txt.save" added="2026-07-29T15:56:33.783832Z" modified="2026-07-29T15:56:33.783837Z" visited="2026-07-29T15:56:33.783833Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T15:56:33.783835Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/default/grub" added="2026-07-29T16:16:44.291039Z" modified="2026-07-29T16:16:44.291045Z" visited="2026-07-29T16:16:44.291040Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T16:16:44.291042Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/plymouth/themes/spinner/spinner.plymouth" added="2026-07-29T16:24:25.194267Z" modified="2026-07-29T16:28:59.379105Z" visited="2026-07-29T16:24:25.194268Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T16:28:59.379101Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/plymouth/plymouthd.defaults" added="2026-07-29T16:27:34.197195Z" modified="2026-07-29T16:27:34.197200Z" visited="2026-07-29T16:27:34.197196Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T16:27:34.197197Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/mellow/resources/64x64/mellow.png" added="2026-07-29T16:44:37.252042Z" modified="2026-08-03T19:07:49.401000Z" visited="2026-08-03T19:07:49.401000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Shell.Extensions" exec="'org.gnome.Shell.Extensions %u'" modified="2026-07-29T16:44:37.252045Z" count="1"/>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2026-08-03T19:07:49.401000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/mellow/assets/wallpapers/wallpaper.jpg" added="2026-07-29T16:50:21.695504Z" modified="2026-07-29T16:51:39.600534Z" visited="2026-07-29T16:50:21.695505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2026-07-29T16:51:39.600532Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/wallpaper.jpg" added="2026-07-29T16:50:53.125935Z" modified="2026-07-29T16:50:53.125941Z" visited="2026-07-29T16:50:53.125936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2026-07-29T16:50:53.125938Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/plymouth/themes/darwin/logo.png" added="2026-07-29T17:16:05.309156Z" modified="2026-07-29T17:16:05.310205Z" visited="2026-07-29T17:16:05.309157Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2026-07-29T17:16:05.310201Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/plymouth/themes/darwin/motif.png" added="2026-07-29T17:16:43.260150Z" modified="2026-07-29T17:16:43.260154Z" visited="2026-07-29T17:16:43.260151Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2026-07-29T17:16:43.260152Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/logo.png" added="2026-07-29T17:19:35.188923Z" modified="2026-07-29T17:56:45.114803Z" visited="2026-07-29T17:19:35.188924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2026-07-29T17:56:45.114802Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/materia-theme-transparent/README.md" added="2026-07-29T18:28:36.011392Z" modified="2026-07-29T18:28:36.011398Z" visited="2026-07-29T18:28:36.011393Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-builder %U'" modified="2026-07-29T18:28:36.011395Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/mellow/resources/ascii/mellow.txt" added="2026-07-29T19:01:11.183327Z" modified="2026-07-31T12:15:13.998320Z" visited="2026-07-29T19:01:11.183328Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T19:01:11.183329Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2026-07-31T12:15:13.998318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/calamares/branding/default/branding.desc" added="2026-07-29T21:55:15.005760Z" modified="2026-07-29T21:55:15.011035Z" visited="2026-07-29T21:55:15.005761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T21:55:15.011029Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/calamares/branding/default/stylesheet.qss" added="2026-07-29T21:58:37.732903Z" modified="2026-07-29T21:58:37.732908Z" visited="2026-07-29T21:58:37.732904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/typescript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T21:58:37.732905Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/calamares/branding/default/show.qml" added="2026-07-29T21:59:03.713420Z" modified="2026-07-29T21:59:03.713424Z" visited="2026-07-29T21:59:03.713421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-qml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-29T21:59:03.713422Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/Pixel-Lab-Studio-1785498926959.png" added="2026-07-31T12:19:45.310618Z" modified="2026-07-31T12:19:45.310627Z" visited="2026-07-31T12:19:45.310620Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2026-07-31T12:19:45.310624Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/bonvenocf/BonvenoCF-Light.otf" added="2026-07-31T12:48:58.096102Z" modified="2026-07-31T12:48:58.096107Z" visited="2026-07-31T12:48:58.096103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/otf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-font-viewer %u'" modified="2026-07-31T12:48:58.096105Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/home" added="2026-07-31T16:20:43.494899Z" modified="2026-07-31T16:20:43.494903Z" visited="2026-07-31T16:20:43.494900Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'org.gnome.Nautilus %u'" modified="2026-07-31T16:20:43.494901Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/mellow/mellow-build/mellow/airootfs/home/root/state/gnome-session@gnome.state" added="2026-07-31T17:33:47.518567Z" modified="2026-07-31T17:33:47.518577Z" visited="2026-07-31T17:33:47.518568Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-31T17:33:47.518575Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/calamares/branding/endeavouros/branding.desc" added="2026-07-31T19:44:15.309713Z" modified="2026-07-31T19:44:15.309768Z" visited="2026-07-31T19:44:15.309714Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-31T19:44:15.309766Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/root/etc/calamares" added="2026-07-31T20:10:04.103935Z" modified="2026-07-31T20:10:04.103939Z" visited="2026-07-31T20:10:04.103936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'org.gnome.Nautilus %u'" modified="2026-07-31T20:10:04.103937Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/plymouth/plymouthd.conf" added="2026-07-31T20:13:40.710862Z" modified="2026-07-31T20:13:40.710869Z" visited="2026-07-31T20:13:40.710863Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-31T20:13:40.710865Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/mkinitcpio.conf" added="2026-07-31T20:34:49.616175Z" modified="2026-07-31T20:34:49.616179Z" visited="2026-07-31T20:34:49.616176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-07-31T20:34:49.616177Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/archiso/configs/releng/airootfs/etc/mkinitcpio.conf.d/archiso.conf" added="2026-08-01T12:04:12.351632Z" modified="2026-08-01T12:04:12.351636Z" visited="2026-08-01T12:04:12.351632Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-01T12:04:12.351633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/etc/mkinitcpio.conf.d/archiso.conf" added="2026-08-01T12:07:32.219573Z" modified="2026-08-01T12:07:32.219578Z" visited="2026-08-01T12:07:32.219575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-01T12:07:32.219576Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/profiledef.sh" added="2026-08-01T12:07:55.453674Z" modified="2026-08-01T12:07:55.453678Z" visited="2026-08-01T12:07:55.453675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-builder %U'" modified="2026-08-01T12:07:55.453676Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/out/mellowlinux-2026.08.01-x86_64.iso" added="2026-08-01T13:01:51.378601Z" modified="2026-08-01T13:01:51.378606Z" visited="2026-08-01T13:01:51.378602Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2026-08-01T13:01:51.378604Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/calamares-settings-debian-master/calamares-install-debian" added="2026-08-01T15:36:38.796630Z" modified="2026-08-01T15:36:38.796633Z" visited="2026-08-01T15:36:38.796630Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-builder %U'" modified="2026-08-01T15:36:38.796631Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/calamares-settings-debian-master/calamaresfb.service" added="2026-08-01T15:38:37.529852Z" modified="2026-08-01T15:38:37.529858Z" visited="2026-08-01T15:38:37.529853Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-01T15:38:37.529856Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/calamares-settings-debian-master/conf/96_calamares-settings-debian.gschema.override" added="2026-08-01T15:39:09.683312Z" modified="2026-08-01T15:39:09.683317Z" visited="2026-08-01T15:39:09.683313Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-01T15:39:09.683315Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/etc/calamares/settings.conf" added="2026-08-01T15:44:01.836208Z" modified="2026-08-01T15:44:01.836213Z" visited="2026-08-01T15:44:01.836209Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-01T15:44:01.836210Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/packages.x86_64" added="2026-08-01T16:39:21.413939Z" modified="2026-08-05T23:03:07.081000Z" visited="2026-08-05T23:03:07.081000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-01T16:39:21.413940Z" count="1"/>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2026-08-05T23:03:07.081000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/pacman.conf" added="2026-08-01T16:40:01.343107Z" modified="2026-08-05T23:00:44.189000Z" visited="2026-08-05T23:00:44.189000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-03T16:09:40.445465Z" count="6"/>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2026-08-05T23:00:44.189000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/bootstrap_packages" added="2026-08-01T16:40:47.305909Z" modified="2026-08-03T15:44:43.583663Z" visited="2026-08-01T16:40:47.305911Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-03T15:44:43.583661Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/grub/grub.cfg" added="2026-08-01T16:40:57.696902Z" modified="2026-08-03T15:30:20.143897Z" visited="2026-08-01T16:40:57.696904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-03T15:30:20.143896Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/slideshow-01.png" added="2026-08-01T17:03:31.293435Z" modified="2026-08-01T17:03:31.293441Z" visited="2026-08-01T17:03:31.293436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2026-08-01T17:03:31.293438Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/slideshow-02.png" added="2026-08-01T17:03:39.032011Z" modified="2026-08-01T17:03:39.032014Z" visited="2026-08-01T17:03:39.032012Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2026-08-01T17:03:39.032013Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/calamares/branding/mellow/branding.desc" added="2026-08-01T17:15:14.158126Z" modified="2026-08-02T20:32:37.526923Z" visited="2026-08-01T17:15:14.158127Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-02T20:32:37.526918Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/calamares/settings.conf" added="2026-08-01T17:36:51.210929Z" modified="2026-08-03T14:41:10.083023Z" visited="2026-08-01T17:36:51.210929Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-03T14:41:10.083019Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/usr/share/plymouth/plymouthd.defaults" added="2026-08-01T18:10:25.069181Z" modified="2026-08-01T18:10:25.069186Z" visited="2026-08-01T18:10:25.069182Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-01T18:10:25.069183Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/calamares/branding/default/show.qml" added="2026-08-02T20:17:10.836590Z" modified="2026-08-03T13:57:59.519543Z" visited="2026-08-02T20:17:10.836591Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-qml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-03T13:57:59.519541Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/calamares/branding/default/branding.desc" added="2026-08-02T20:21:41.916210Z" modified="2026-08-03T13:56:29.178076Z" visited="2026-08-02T20:21:41.916210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-03T13:56:29.178074Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/calamares/branding/mellow/stylesheet.qss" added="2026-08-02T20:25:59.897427Z" modified="2026-08-02T20:25:59.897442Z" visited="2026-08-02T20:25:59.897427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/typescript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-02T20:25:59.897440Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/usr/lib" added="2026-08-02T21:06:09.455899Z" modified="2026-08-02T21:06:09.455902Z" visited="2026-08-02T21:06:09.455899Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'org.gnome.Nautilus %u'" modified="2026-08-02T21:06:09.455900Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/usr/lib/calamares" added="2026-08-02T21:07:53.180316Z" modified="2026-08-02T21:07:53.180320Z" visited="2026-08-02T21:07:53.180316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'org.gnome.Nautilus %u'" modified="2026-08-02T21:07:53.180317Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/usr/lib/calamares/modules" added="2026-08-02T21:07:57.046394Z" modified="2026-08-02T21:07:57.046398Z" visited="2026-08-02T21:07:57.046395Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'org.gnome.Nautilus %u'" modified="2026-08-02T21:07:57.046396Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/usr/lib/calamares/modules/initramfs/initramfs.conf" added="2026-08-02T21:08:15.599484Z" modified="2026-08-02T21:08:15.599492Z" visited="2026-08-02T21:08:15.599484Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-02T21:08:15.599486Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/glib-2.0/schemas/00_org.gnome.shell.gschema.override" added="2026-08-02T21:29:14.352615Z" modified="2026-08-02T21:29:14.352619Z" visited="2026-08-02T21:29:14.352616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-02T21:29:14.352617Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/glib-2.0/schemas/org.gnome.desktop.background.gschema.xml" added="2026-08-02T21:30:09.907039Z" modified="2026-08-02T21:30:09.907044Z" visited="2026-08-02T21:30:09.907040Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-builder %U'" modified="2026-08-02T21:30:09.907042Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/usr/share/icons" added="2026-08-03T12:24:49.043637Z" modified="2026-08-03T12:24:49.043697Z" visited="2026-08-03T12:24:49.043638Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'org.gnome.Nautilus %u'" modified="2026-08-03T12:24:49.043695Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/usr/share/icons/Papirus" added="2026-08-03T12:24:54.284575Z" modified="2026-08-03T12:24:54.284578Z" visited="2026-08-03T12:24:54.284575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'org.gnome.Nautilus %u'" modified="2026-08-03T12:24:54.284576Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/usr/share/icons/Papirus/64x64" added="2026-08-03T12:25:00.212976Z" modified="2026-08-03T12:25:00.212979Z" visited="2026-08-03T12:25:00.212976Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'org.gnome.Nautilus %u'" modified="2026-08-03T12:25:00.212977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/usr/share/icons/Papirus/64x64/apps" added="2026-08-03T12:25:09.543082Z" modified="2026-08-03T12:25:09.543090Z" visited="2026-08-03T12:25:09.543082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'org.gnome.Nautilus %u'" modified="2026-08-03T12:25:09.543088Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/calamares/branding/default/2-alci.png" added="2026-08-03T13:53:42.396053Z" modified="2026-08-03T13:53:42.781071Z" visited="2026-08-03T13:53:42.396054Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'loupe %U'" modified="2026-08-03T13:53:42.396309Z" count="1"/>
+          <bookmark:application name="loupe" exec="'loupe %u'" modified="2026-08-03T13:53:42.781069Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/calamares/branding/default/stylesheet.qss" added="2026-08-03T13:53:54.272388Z" modified="2026-08-03T13:53:54.272391Z" visited="2026-08-03T13:53:54.272388Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/typescript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-03T13:53:54.272389Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/mellow/assets/fonts/uni-sans-light.ttf" added="2026-08-03T14:16:42.998720Z" modified="2026-08-03T14:16:42.998737Z" visited="2026-08-03T14:16:42.998720Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-font-viewer %u'" modified="2026-08-03T14:16:42.998736Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/archiso/configs/releng/bootstrap_packages" added="2026-08-03T15:44:58.792471Z" modified="2026-08-03T15:44:58.792474Z" visited="2026-08-03T15:44:58.792472Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-03T15:44:58.792473Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/archiso/configs/releng/pacman.conf" added="2026-08-03T15:45:18.970037Z" modified="2026-08-03T15:45:18.970040Z" visited="2026-08-03T15:45:18.970038Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-03T15:45:18.970038Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/alci-iso-pure/installation-scripts/30-build-the-iso-the-first-time.sh" added="2026-08-03T15:51:57.235427Z" modified="2026-08-03T15:51:57.235447Z" visited="2026-08-03T15:51:57.235441Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-03T15:51:57.235445Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/efiboot/loader/loader.conf" added="2026-08-03T16:09:13.879282Z" modified="2026-08-03T16:09:13.879286Z" visited="2026-08-03T16:09:13.879283Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="'gnome-text-editor %U'" modified="2026-08-03T16:09:13.879284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.dolphin.desktop" added="2026-08-03T17:36:09.605000Z" modified="2026-08-03T17:36:09.605000Z" visited="2026-08-03T17:36:09.605000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %u" modified="2026-08-03T17:36:09.605000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/themes/Breeze-Dark/settings.ini" added="2026-08-03T18:01:38.545000Z" modified="2026-08-03T18:01:38.545000Z" visited="2026-08-03T18:01:38.545000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2026-08-03T18:01:38.545000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/themes/Breeze/settings.ini" added="2026-08-03T18:02:18.950000Z" modified="2026-08-03T18:02:18.950000Z" visited="2026-08-03T18:02:18.950000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2026-08-03T18:02:18.950000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/plasma/desktoptheme/breeze-light/metadata.json" added="2026-08-03T18:03:55.824000Z" modified="2026-08-03T18:03:55.824000Z" visited="2026-08-03T18:03:55.824000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2026-08-03T18:03:55.824000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/plasma/look-and-feel/mellow.linux/metadata.json" added="2026-08-03T18:11:42.917000Z" modified="2026-08-03T18:11:42.917000Z" visited="2026-08-03T18:11:42.917000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2026-08-03T18:11:42.917000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/Pixel-Lab-Studio-1785784511772.png" added="2026-08-03T19:17:48.167498Z" modified="2026-08-03T19:19:51.741000Z" visited="2026-08-03T19:19:51.741000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2026-08-03T19:17:48.167525Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2026-08-03T19:19:27.976000Z" count="1"/>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2026-08-03T19:19:51.741000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/mellow/assets/logos/mellow-minimal.png" added="2026-08-03T19:24:04.933000Z" modified="2026-08-03T19:24:04.933000Z" visited="2026-08-03T19:24:04.933000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2026-08-03T19:24:04.933000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/Utterly-Nord-kvantum.zip" added="2026-08-03T19:44:39.752463Z" modified="2026-08-03T19:44:43.864000Z" visited="2026-08-03T19:44:43.864000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2026-08-03T19:44:39.752488Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2026-08-03T19:44:41.348000Z" count="1"/>
+          <bookmark:application name="org.kde.ark" exec="ark %u" modified="2026-08-03T19:44:43.864000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/" added="2026-08-03T19:44:54.595000Z" modified="2026-08-03T19:44:54.595000Z" visited="2026-08-03T19:44:54.595000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %u" modified="2026-08-03T19:44:54.595000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/Utterly-Nord" added="2026-08-03T19:45:15.817000Z" modified="2026-08-03T19:45:15.817000Z" visited="2026-08-03T19:45:15.817000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Kvantum Manager" exec="Kvantum Manager %f" modified="2026-08-03T19:45:15.817000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/Utterly-Nord.tar.xz" added="2026-08-03T19:48:09.958549Z" modified="2026-08-03T19:48:09.958553Z" visited="2026-08-03T19:48:09.958550Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2026-08-03T19:48:09.958551Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/" added="2026-08-03T19:54:18.369000Z" modified="2026-08-03T19:54:18.369000Z" visited="2026-08-03T19:54:18.369000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2026-08-03T19:54:18.369000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///sbin/" added="2026-08-04T18:19:23.194000Z" modified="2026-08-04T18:19:23.194000Z" visited="2026-08-04T18:19:23.194000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2026-08-04T18:19:23.194000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2026-08-05T13:27:50.003000Z" modified="2026-08-05T13:27:50.003000Z" visited="2026-08-05T13:27:50.003000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.filelight" exec="filelight %u" modified="2026-08-05T13:27:50.003000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/sddm.conf" added="2026-08-05T15:09:17.793000Z" modified="2026-08-05T15:09:17.793000Z" visited="2026-08-05T15:09:17.793000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2026-08-05T15:09:17.793000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-iso/mellow/pacman.conf" added="2026-08-05T23:00:54.703000Z" modified="2026-08-05T23:00:54.703000Z" visited="2026-08-05T23:00:54.703000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2026-08-05T23:00:54.703000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-iso/mellow/profiledef.sh" added="2026-08-05T23:01:28.780000Z" modified="2026-08-05T23:01:28.780000Z" visited="2026-08-05T23:01:28.780000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2026-08-05T23:01:28.780000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/mellow/mellow-linux.png" added="2026-08-06T10:09:31.931000Z" modified="2026-08-06T10:34:57.594000Z" visited="2026-08-06T10:34:57.594000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2026-08-06T10:34:57.594000Z" count="2"/>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2026-08-06T10:09:32.061939Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2026-08-06T10:09:49.910000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/image-(4).png" added="2026-08-06T10:12:01.104914Z" modified="2026-08-06T10:32:53.252000Z" visited="2026-08-06T10:32:53.252000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2026-08-06T10:12:01.104916Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2026-08-06T10:12:02.793000Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2026-08-06T10:32:53.252000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/mellow/assets/logos/mellow.png" added="2026-08-06T10:16:57.043000Z" modified="2026-08-06T10:16:57.043000Z" visited="2026-08-06T10:16:57.043000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2026-08-06T10:16:57.043000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/mellow/assets/logos/mellow-linux.png" added="2026-08-06T10:17:30.026000Z" modified="2026-08-06T10:17:30.026000Z" visited="2026-08-06T10:17:30.026000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2026-08-06T10:17:30.026000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/PixelLab.Studio-1786012177695.png" added="2026-08-06T10:29:38.017446Z" modified="2026-08-06T10:29:38.017454Z" visited="2026-08-06T10:29:38.017448Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2026-08-06T10:29:38.017450Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/image-(4).svg" added="2026-08-06T10:33:19.480379Z" modified="2026-08-06T10:33:19.480385Z" visited="2026-08-06T10:33:19.480381Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2026-08-06T10:33:19.480383Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/Downloads/mellow-linux(1).svg" added="2026-08-06T10:35:13.865506Z" modified="2026-08-06T10:35:13.865518Z" visited="2026-08-06T10:35:13.865508Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2026-08-06T10:35:13.865513Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-iso/mellow/airootfs/etc/motd" added="2026-08-06T10:44:51.540000Z" modified="2026-08-06T10:44:51.540000Z" visited="2026-08-06T10:44:51.540000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2026-08-06T10:44:51.540000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mellow/mellow-build/mellow/airootfs/etc/shadow" added="2026-08-06T10:46:49.177000Z" modified="2026-08-06T10:46:49.177000Z" visited="2026-08-06T10:46:49.177000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2026-08-06T10:46:49.177000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,10 @@
+iso_name="mellowlinux"
+iso_label="MELLOW_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
+iso_publisher="Mellow Linux <https://archlinux.org>"
+iso_application="Mellow Linux Live/Rescue DVD"
+iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
+install_dir="mellow"
+buildmodes=('iso')
+bootmodes=('bios.syslinux'
+           'uefi.systemd-boot')
+pacman_conf="pacman.conf"

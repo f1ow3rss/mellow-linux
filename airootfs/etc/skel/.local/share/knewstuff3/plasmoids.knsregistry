@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="709">
+  <name>Simple Application Launcher for Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/2115883</homepage>
+  <licence></licence>
+  <version>2.5</version>
+  <rating>72</rating>
+  <downloads>108584</downloads>
+  <installedfile>/home/mellow/.local/share/plasma/plasmoids/org.kde.plasma.simplekickoff/</installedfile>
+  <id>2115883</id>
+  <releasedate>2025-04-25</releasedate>
+  <summary>&lt;p>This is a simplified fork of Kickoff which is KDE Plasma 6 Desktop's default Application launcher. The design is minimalized without compromising on power and important features.&lt;br />&lt;br />For Plasma 5 variant, &lt;a href="https://www.pling.com/p/1819888/">click here&lt;/a>&lt;br />&lt;br />Powerful Plasma Search&lt;br />The search bar uses Plasma Search, which is the same search provider used in the default Kickoff, Krunner and the Overview effect which supports powerful plugins.&lt;br />&lt;br />NOTE: This is based off from Kickoff which can be found in /usr/share/plasma/plasmoids/org.kde.plasma.kickoff/, on every Linux system that has KDE Plasma installed.&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2115883/nordic-round-grid-1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2115883/nordic-round-grid-1.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcwOTg5NDQwMSwidSI6bnVsbCwicyI6ImI2ZjhjMGU0NGVmNjU3ODk4NzAzMTgzZjJjOTk4Mzk4ZjViYzcwYTE3ZTM4OTkwMGI1MmNjNGFjODU5YTc2YTQxN2NmNzEwZGI3MDM2MDRlZjg4NjhlYjFiODhjOGQ0MWJjZTg2OGFlMmNlZDg5NjAzMzE4NzQxY2UwNjYzM2MxIiwidCI6MTc4NTc5MDE3MSwibyI6MSwibHQiOiJkb3dubG9hZCIsImp0aSI6ImRkNjU2OTIwZmIwNmVmMDg1MTE3N2NkZDFkMmY4MTUyIiwiaWF0IjoxNzg1Nzg2NTcxLCJleHAiOjE3ODU5NTkzNzEsInN0aXAiOiIxMC4xMzUuMjQ2LjE5In0.bUX9V2zyx5i47qMPrEAWCC589_qSv0qCwzBYIEBjoCU/Simple-Kickoff.plasmoid</payload>
+  <tags>start,startmenu,unix,linux,gplv2-later,kde,launcher,plasma,plasma##majorversion=6,widget,extension,efi,appmenu</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Netspeed Widget</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>HessiJames</author>
+  <homepage>https://store.kde.org/p/2136505</homepage>
+  <licence></licence>
+  <version>3.1</version>
+  <rating>77</rating>
+  <downloads>122768</downloads>
+  <installedfile>/home/mellow/.local/share/plasma/plasmoids/org.kde.netspeedWidget/</installedfile>
+  <id>2136505</id>
+  <releasedate>2024-03-10</releasedate>
+  <summary>&lt;p>Plasma 6 widget that displays the currently used network bandwidth.&lt;br />&lt;br />The appearance can be customized in the configuration dialog and a user defined application (eg. nethogs) can be launched when the applet is clicked.&lt;br />&lt;br />Required dependencies:&lt;br />&lt;br /> - awk&lt;br />&lt;br />Optional dependencies:&lt;br />&lt;br />- plasma-addons (may be called plasma5-addons, kdeplasma-addons or similar - used to launch a user defined application when the applet is clicked)&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/03/18/67/2136505/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/03/18/67/2136505/logo.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxMDEwMzc0MCwidSI6bnVsbCwicyI6IjkwMDZiN2Y3YWQxYjhjNzQwMzQ5NjBiOTk0N2M3NDU2MzRiZWRjYTM1ZWJhNzhjY2NlZWUyYzgxNTkwZDBhNGMwMWJkYWZmM2MzZTVmNzk1ODIwZGVkNTE1M2RiZGNhZTA0NTAyYjkyZTcwZDczOGRhMWMyNjg1NWQyMDgwMzk3IiwidCI6MTc4NTc5MDE3OCwibyI6MSwibHQiOiJkb3dubG9hZCIsImp0aSI6Ijk0OTY0YTY5MzMwOTQyNTNjNTViZjgzYWM5YzEwOGQ5IiwiaWF0IjoxNzg1Nzg2NTc4LCJleHAiOjE3ODU5NTkzNzgsInN0aXAiOiIxMC4xMzUuMjQ2LjE5In0.WHuSjq_UWN3nB_L0MemIZiEMViXXHKKKgEnG_Wmxvbk/netspeed-widget-3.1.plasmoid</payload>
+  <tags>kde,linux,monitor,gplv2-later,plasma##majorversion=6,plasma,network,original-product,extension,unix,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Toggle Overview Widget for Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/2132554</homepage>
+  <licence></licence>
+  <version>1.5</version>
+  <rating>68</rating>
+  <downloads>57682</downloads>
+  <installedfile>/home/mellow/.local/share/plasma/plasmoids/com.himdek.kde.plasma.overview/</installedfile>
+  <id>2132554</id>
+  <releasedate>2025-04-25</releasedate>
+  <summary>&lt;p>Just a simple widget that opens the Overview on click. You can now put a button to open the Overview in panels and desktop. This can easily replace any Application Launcher as it has a powerful Krunner search box.&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/2008499/">Click here&lt;/a> to get it for Plasma 5&lt;br />&lt;br />Overview effect in present in Plasma 5.24 and later and needs to be enabled in System Settings &amp;gt; Workspace &amp;gt; Desktop Behaviour &amp;gt; Desktop Effects &amp;gt; Overview&lt;br />&lt;br />It shows a virtual desktop switcher with previews and previews of every window open in the current desktop. It also has a Krunner search box.&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2132554/screenshot-20230326-174011.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2132554/screenshot-20230326-174011.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTczMDcxMzY0OSwidSI6bnVsbCwicyI6IjEwMmNjNDkyYTM0MmNlMWFhZjBiZDA0MWIwYWNhNTEwZTJhYzE2MjM1MjMzMmIzZDkyZTA2NDIzNDU0YjRmZWMxMDkyNmFhMDhmOTU4YTRlNTFiOGVjM2YyMTIwMTI2MGQzMGQ1NzI2OTRlOGVjZDgyMDkxOTQ5YzY2NDFhZDdlIiwidCI6MTc4NTc5MDE4MCwibyI6MSwibHQiOiJkb3dubG9hZCIsImp0aSI6IjNiMWNlZmRjNjYwZmYyYjAwMTRkNjBmMmZlMDhiOWU3IiwiaWF0IjoxNzg1Nzg2NTgwLCJleHAiOjE3ODU5NTkzODAsInN0aXAiOiIxMC4xMzUuMjQ2LjE5In0.wA7thqtNZlPnmjMalsmOByT5IOBCprctOmS_xCwd_1Y/overview.plasmoid</payload>
+  <tags>extension,fullscreen,appmenu,unix,overview,plasma,plasma##majorversion=6,original-product,launcher,krunner,linux,kde,gplv3,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Window Title Applet 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>dhruv8sh</author>
+  <homepage>https://store.kde.org/p/2129423</homepage>
+  <licence></licence>
+  <version>v0.9.0</version>
+  <rating>71</rating>
+  <downloads>139355</downloads>
+  <installedfile>/home/mellow/.local/share/plasma/plasmoids/org.kde.windowtitle/</installedfile>
+  <id>2129423</id>
+  <releasedate>2024-07-28</releasedate>
+  <summary>&lt;p>A Plasma 6 applet that builds on the work by Psifidotos.&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/62/52/79/2129423/screenshot-20240309-033004.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/62/52/79/2129423/screenshot-20240309-033004.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcwOTkzNTY3MiwidSI6bnVsbCwicyI6IjBkMDJjODc4MjVkYWZhY2RiNmVjMDI1MzhhMWMwNzZhMzAxZjI1MzUxNTFmYjkyZGIyMDlhZmE0ZGRiNjA3MDljY2I2MzA1YjliNDEyYzVkZGNhMzkwYzE2YWE2ZWY5ZDQ2MjQ5YmEwY2M2MzJlOGY1ZjgxMTAxMGMxMjUwYmI1IiwidCI6MTc4NTc5MDE3NSwibyI6MSwibHQiOiJkb3dubG9hZCIsImp0aSI6ImRkZmEyMDhiYWZlMzI0ZTNiYTM1MzU2NWZmNDljNDE1IiwiaWF0IjoxNzg1Nzg2NTc1LCJleHAiOjE3ODU5NTkzNzUsInN0aXAiOiIxMC4xMzUuMjQ2LjE5In0.7xpPPgyHX1GQeBft57o4rhR5kode_riOcMDMhaxGZ6g/v0.4.tar.gz</payload>
+  <tags>unix,widget,extension,original-product,plasma,plasma##majorversion=6,plasma-desktop,plasmoid,applet,linux,gplv2,kde,kde-plasma,kdeplasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Window Buttons Applet 6 Prebuilt</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/2151931</homepage>
+  <licence></licence>
+  <version>0.11.1-prebuilt-1</version>
+  <rating>58</rating>
+  <downloads>48155</downloads>
+  <installedfile>/home/mellow/.local/share/plasma/plasmoids/org.kde.windowbuttons/</installedfile>
+  <id>2151931</id>
+  <releasedate>2025-04-25</releasedate>
+  <summary>&lt;p>This is a prebuilt distribution of &lt;a href="https://store.kde.org/p/2143556">Window Buttons Applet for Plasma 6 - WIP&lt;/a> which in turn was ported to Plasma 6 by &lt;a href="https://store.kde.org/u/moodyhunter">MOODYHUNTER&lt;/a> from &lt;a href="https://store.kde.org/p/1272871/">Window Buttons Applet&lt;/a> originally developed by &lt;a href="https://store.kde.org/u/Psifidotos">Psifidotos&lt;/a>. I am in no way the original developer of this product nor have I modified it in any way. I published this prebuilt distribution so that it can be used a dependency for Plasma Global Themes.&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1906579/">Click here&lt;/a> to get it for Plasma 5&lt;br />&lt;br />This can be installed directly from Plasma Widget explorer or by clicking the install button in this page. However, for this to work correctly, the libraries must be installed by running the below command:&lt;br />&lt;/p>&lt;pre>&lt;code>
+cd &amp;amp;&amp;amp; sudo ./.local/share/plasma/plasmoids/org.kde.windowbuttons/lib-install.sh
+&lt;/code>&lt;/pre>&lt;br />To uninstall the libraries run:&lt;br />&lt;pre>&lt;code>
+sudo rm -rf /usr/lib/qt/qml/org/kde/appletdecoration/
+&lt;/code>&lt;/pre>&lt;br />&lt;br />NOTE: The libraries were built and will be continued to be built in Arch Linux running the latest available version of KDE Plasma. This may or may not work in other linux distribution or older Plasma versions. I do not intend to provide support if it does not work for you. In such a case you should consider building it yourself by following the instructions from &lt;a href="https://store.kde.org/p/2143556/">here&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2151931/03b6b9696cf8c8debffbaaf0c43cae5f0522.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2151931/03b6b9696cf8c8debffbaaf0c43cae5f0522.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc0MDg4MDU2MCwidSI6bnVsbCwicyI6IjRlZTc3YzJkNjNmZTJkNzhkMzJiY2NjMWQxN2FjZGQ3MDcwZWVjOTc4YTZjMTFlZGRmOTVhZTUxNjhiZTA5MzllNDUxMDM0MjU1MThlMzU5NTFmMmFkMjhmYTkxMWYzNDE3MzUzODRmZTIxNzhlMjM2NTJhMjEwY2I2NTU4ZTc0IiwidCI6MTc4NTc5MDE3MywibyI6MSwibHQiOiJkb3dubG9hZCIsImp0aSI6IjU1ZjkxMTlhN2ExYmZhNTRjMTNlYTY1NTM5YjQzMDk2IiwiaWF0IjoxNzg1Nzg2NTczLCJleHAiOjE3ODU5NTkzNzMsInN0aXAiOiIxMC4xMzUuMjQ2LjE5In0.Y9o1ZFKzTl4gtuP2m6AXlICDvybsafbfpjmJHtb4knc/Window-Button-Applet.plasmoid</payload>
+  <tags>linux,kde,gplv2-later,unix,extension,plasma##majorversion=6,plasma,widget</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
