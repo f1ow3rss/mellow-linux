@@ -1,0 +1,226 @@
+2026-08-06T12:41:51 [INFO ] org.kde.pim.akonadiserver: Starting up the Akonadi Server...
+2026-08-06T12:41:51 [INFO ] org.kde.pim.akonadiserver: Running DB initializer
+2026-08-06T12:41:51 [INFO ] org.kde.pim.akonadiserver: DB initializer done
+2026-08-06T12:41:51 [WARN ] default: Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerC2026-08-06T12:41:54 [INFO ] org.2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af40021a0) )
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: Subscriber "" disconnected
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af4039920) )
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af4039920) )
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af4039920) identified as "ETMCalendarMonitor - 140559784132720"
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: Subscriber "ETMCalendarMonitor - 140559784132720" disconnected
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadiserver: Notification subscriber received ModifySubscription command before RegisterSubscriber
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af4039920) )
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af40021a0) identified as "InternalEmailAddressSelectionWidgetModel - 93980155648288"
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af4039920) )
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af4039920) identified as "AgentBaseChangeRecorder - 94886443308576"
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af4051340) )
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af40b3af0) )
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af40b3af0) identified as "AgentBaseChangeRecorder - 94374250974464"
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af40b5df0) )
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af4051340) identified as "AgentBaseChangeRecorder - 94482941444784"
+2026-08-06T12:41:54 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af40b5df0) identified as "akonadi_birthdays_resource - 94482941446912"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af40f25b0) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af40f25b0) identified as "AgentBaseChangeRecorder - 94877843961056"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af40f5680) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af40f68d0) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af40f5680) identified as "AgentBaseChangeRecorder - 94274008065008"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af4120a60) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af4121b00) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af41242e0) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af40f68d0) identified as "UnifiedMailboxChangeRecorder - 140733311678800"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af4120a60) identified as "AgentBaseChangeRecorder - 94869094977376"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af414e2c0) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af414f2d0) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af41508c0) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af4121b00) identified as "AgentBaseChangeRecorder - 94812045077120"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af41242e0) identified as "AgentBaseChangeRecorder - 94048434283264"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af414e2c0) identified as "AgentBaseChangeRecorder - 93931247470016"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af414f2d0) identified as "akonadi_maildispatcher_agent - 93931248093616"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af41508c0) identified as "SpecialCollectionsMonitor - 140607766954784"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af4198040) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af4199120) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af4199120) identified as "AgentBaseChangeRecorder - 93959149764944"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af4198040) identified as "AgentBaseChangeRecorder - 94903390106208"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af41d0bb0) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af41f7570) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af41f8bc0) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af41fa2f0) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af41d0bb0) identified as "AgentBaseChangeRecorder - 94053956116240"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af41f7570) identified as "MailFilter Kernel ETM - 94053956107904"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af41f8bc0) identified as "MailFilterCollectionMonitor - 94053956017136"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af41fa2f0) identified as "MailFilterItemMonitor - 94053956318944"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af42351b0) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af4260370) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af4260370) identified as "Archive Mail Kernel ETM - 94370778750000"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af42351b0) identified as "AgentBaseChangeRecorder - 94370778979488"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af4261a00) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af42632c0) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af4261a00) identified as "ArchiveMailCollectionMonitor - 94370778160528"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af42632c0) identified as "SpecialCollectionsMonitor - 94053951353760"
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: New notification connection (registered as Akonadi::Server::NotificationSubscriber(0x7f3af42421e0) )
+2026-08-06T12:41:55 [INFO ] org.kde.pim.akonadiserver: Subscriber Akonadi::Server::NotificationSubscriber(0x7f3af42421e0) identified as "AgentBaseChangeRecorder - 94008819817776"
+countId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_migration_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_migration_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_followupreminder_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_followupreminder_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_migration_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_migration_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_followupreminder_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_migration_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_migration_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_migration_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_migration_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:54 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildispatcher_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_followupreminder_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_migration_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_archivemail_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_indexing_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailfilter_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_newmailnotifier_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_contacts_resource_0"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_maildir_resource_0"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_birthdays_resource"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_mailmerge_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_sendlater_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_unifiedmailbox_agent"  has no agent account interface.
+2026-08-06T12:41:55 [WARN ] org.kde.pim.akonadicontrol: Agent instance (agentInstanceAccountId)  "akonadi_ical_resource_0"  has no agent account interface.
